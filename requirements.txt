@@ -1,4 +1,8 @@
-flask==3.0.2
-python-dotenv==1.0.1
-google-generativeai>=0.5.0
-PyPDF2==3.0.1
+Flask
+Werkzeug
+pandas
+numpy
+scikit-learn
+PyPDF2
+python-dotenv
+google-generativeai
